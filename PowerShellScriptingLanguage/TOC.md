@@ -1,6 +1,6 @@
 # [PowerShell, the scripting language](00_PowershellScriptingLanguage.md) 
-## 1. Fundamental concepts of PowerShell scripting 
-### 1.1. Introduction
+## [1. Fundamental concepts of PowerShell scripting](01_Fundamental/01_Fundamental.md) 
+### [1.1. Introduction](01_Fundamental/0101_Introduction.md)
 ### 1.2. Objects, not text
 ### 1.3. Pipeline of Objects
 ### 1.4.Command parsing
